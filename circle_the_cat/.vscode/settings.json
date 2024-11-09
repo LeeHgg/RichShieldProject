@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "util.h": "c",
+        "device.h": "c",
+        "gpio.h": "c",
+        "printk.h": "c",
+        "kernel.h": "c",
+        "devicetree.h": "c"
+    }
+}
